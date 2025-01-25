@@ -1,4 +1,4 @@
-import Regi from '../assets/img/Regi.jpg';
+import Regi from '../assets/img/regi.jpg';
 
 function Header(){
     return (

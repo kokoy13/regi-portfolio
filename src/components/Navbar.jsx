@@ -4,7 +4,7 @@ function Navbar(){
             <ul className="flex gap-5">
                 <li><a href="#explore">Explore</a></li>
                 <li><a href="#portfolio">Portfolio</a></li>
-                <li><a href="#service">Service</a></li>
+                <li><a href="#services">Services</a></li>
                 <li><a href="#contact">contact</a></li>
             </ul>
             <div className="gap-8 items-center hidden">

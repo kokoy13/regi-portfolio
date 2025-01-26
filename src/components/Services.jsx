@@ -6,7 +6,7 @@ import videography from "../assets/img/videography.jpg";
 
 function Services() {
     return (
-        <div>
+        <div id="services">
             <div className="mb-5">
                 <h1 style={{ fontFamily: "'Oswald', sans-serif" }} className="text-center uppercase text-4xl font-extrabold text-wrap mb-1">OUR*Services</h1>
                 <p className="text-xs text-wrap text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, reiciendis.</p>

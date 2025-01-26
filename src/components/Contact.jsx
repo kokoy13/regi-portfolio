@@ -6,7 +6,7 @@ import ss from "../assets/img/shutterstock.png"
 
 function Contact(){
     return(
-        <div className=' mb-8'>
+        <div className=' mb-8' id="contact">
             <h1 style={{ fontFamily: "'Oswald', sans-serif" }} className="text-center uppercase text-4xl font-extrabold text-wrap mb-8">*Contact</h1>
             <div>
                 <Link to='https://www.instagram.com/haallut/' img={ig}>hallut</Link>
